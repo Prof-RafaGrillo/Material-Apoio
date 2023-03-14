@@ -6,3 +6,11 @@ Este repositorio é destinado para a aula de Programação dos estudantes do seg
 
 ## Sintaxe básica de escrita e formatação no GitHub
  - https://cursos.alura.com.br/course/formacao-professores-educacao-basica/task/100869
+
+## Texto para leitura
+ - https://www.alura.com.br/artigos/qual-diferenca-entre-id-e-class
+ - https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica
+ - https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-2-elementos-inline
+ - https://www.alura.com.br/artigos/html-tags-elementos-block-level
+ - https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-4-elementos-formulario
+ - https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-5-atributos-elementos
