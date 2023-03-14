@@ -14,3 +14,8 @@ Este repositorio é destinado para a aula de Programação dos estudantes do seg
  - https://www.alura.com.br/artigos/html-tags-elementos-block-level
  - https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-4-elementos-formulario
  - https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-5-atributos-elementos
+
+## Display Flex
+ - https://flexboxfroggy.com/
+ - https://angrytools.com/css-flex/
+ - https://cursos.alura.com.br/extra/alura-mais/css-flexbox-dicas-para-comecar-c301
